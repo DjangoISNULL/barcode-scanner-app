@@ -6,6 +6,7 @@ A customizable and responsive barcode scanner React app built with `@zxing/brows
 
 - Video-based QR and barcode scanning using `@zxing/browser`
 - Torch (flashlight) control via the video track, where supported
+- Scanning zone reduced to smaller canvas to significantly increase performance
 - Overlay UI to guide users toward the optimal scanning zone
 - Supports multiple barcode formats including:
   - `CODE_128`
