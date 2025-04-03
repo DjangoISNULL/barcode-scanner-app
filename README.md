@@ -1,6 +1,6 @@
 # Barcode scanner
 
-A customizable and responsive barcode scanner React component built with `@zxing/browser` and `styled-components`. It supports torch (flashlight) control and focuses scan attempts within a defined overlay area to enhance performance and accuracy.
+A customizable and responsive barcode scanner React app built with `@zxing/browser` and `styled-components`. It supports torch (flashlight) control and focuses scan attempts within a defined overlay area to enhance performance and accuracy.
 
 ## Features
 
