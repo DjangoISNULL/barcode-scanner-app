@@ -1,4 +1,4 @@
-# QR Code Scanner Component
+# Barcode scanner
 
 A customizable and responsive QR code scanner React component built with `@zxing/browser` and `styled-components`. It supports torch (flashlight) control and focuses scan attempts within a defined overlay area to enhance performance and accuracy.
 
